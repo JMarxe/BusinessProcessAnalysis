@@ -69,7 +69,7 @@ In regard to job performance
 - Increase Employee productivity
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/114123232/221410297-304e9abf-d06b-457e-8b95-6fd7558efbd7.jpg"/>
+<img src="https://user-images.githubusercontent.com/114123232/221410297-304e9abf-d06b-457e-8b95-6fd7558efbd7.jpg" height="80%" width="80%"/>
 <br />
 
 In the areas that we have to evaluate each employee's job performance, we will be able to single out each employee and assess their performances and match it to the companies' standards and resolve any issues that might decrease employee performance score and the overall performance of the company. Once we have close eyes on employee performance, customers will be guaranteed the organization's service goals.
@@ -89,5 +89,5 @@ In the areas that we have to evaluate each employee's job performance, we will b
 As we know performance metrics are vital to the employee & corporation for different reasons. The interaction between employees and management would be through systems (registers, scanners, etc.), making analyzing employee performance relatively easy. Implementing these systems include a lot of aspects, there is a software which is responsible for storing all the data that includes sales in cash and card, errors occurred, number of customers checked out and much more. Also, the organization needs to hire a software company to develop the mobile application for the loyalty program. The organization also needs to come up with a set of questions that would be asked to the employees in the surveys that are to be performed quarterly. The management team also needs to come up with innovative ideas for the customers to use the feedback boxes.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/114123232/221410302-5d689a8e-b061-47cd-bd5e-c081cb25ef10.png"/>
+<img src="https://user-images.githubusercontent.com/114123232/221410302-5d689a8e-b061-47cd-bd5e-c081cb25ef10.png" height="80%" width="80%"/>
 <br />
