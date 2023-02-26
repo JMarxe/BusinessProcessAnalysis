@@ -27,7 +27,7 @@ The output would be an average employee performance score tracked by multiple co
 
 The input entities would be the employees, management, and HR. Employees will be evaluated on job performance which will help management gather information and be transferred to HR, who will use the information for future decision making.
 
-# Key process measures
+# Key Process Measures
 
 The key process measure would be employee performance, training, and recruitment process.
 
@@ -40,13 +40,13 @@ The key process measure would be employee performance, training, and recruitment
 |Money|Invest in a Applicant Tracking System which would increase the efficiency in recruitment |<p>Application is being tracked by filling applicant information in a notebook. Current 60%</p><p>A manager would check each application manually and call them back to schedule an interview. Current 40%</p><p>Application status would be retrieved from notes written by the manager who performed the interview Current 30%</p><p></p>|<p>Application would be tracked by an Applicant Tracking System(ATS). (Proposed Improvement: 25%)</p><p>The ATS would be able to schedule an interview to a potential employee (Proposed Improvement 30%)</p><p>Application notes can be stored in the ATS for efficient review (Proposed Improvement 15%)</p>|<p>35%</p><p></p><p></p><p></p><p></p><p></p><p></p><p>10%</p><p></p><p></p><p></p><p></p><p></p><p></p><p>15%</p>|
 |Turnover Rates|Decrease the turnover rates within the organization by providing adequate training, enhancing the diversity, inclusion and equity.|<p>Turnover rate is currently at 75%</p><p>Employees notify their desirement to quit the job which then the manager searches for adequate replacement.</p><p>Current 75%</p>|<p>Retain our best employees and decrease the turnover rate by 20%, by building a strong bond of sense of belonging in the workplace.</p><p>Employees notify their desire to quit the job which then the manager would check for performance history. </p><p>If the employee has a history of good performance in the job, the manager would give incentive to maintain them.</p><p>If employees do not desire to stay, the manager would retrieve information of the increase in employee turnover.</p>|Decrease the turnover rate by 20% to retain our best employees by building a strong bond of belonging in the workplace. The manager will check and evaluate the employees' performance of those who desire to quit their job to incentivize and retain those who perform well. If the employee does not desire to stay, the manager will retrieve information about employee turnover.
 
-# Key improvement targets
+# Key Improvement Targets
 
 Key improvement targets would be increasing the accuracy of employee performance.
 
 To Improve employee job performance; we will have regular training to ensure that the employees are aware of standards and new business practices. Also, we will have disciplinary consequences to ensure that employees meet the standards that are required of them.
 
-# Key issues/challenges
+# Key Issues/Challenges
 
 - Employees might not be satisfied with the evaluation process.
 - Lack of customer feedback through feedback boxes and through the loyalty program.
@@ -85,5 +85,3 @@ In the areas that we have to evaluate each employee's job performance, we will b
 **including WBS, OBS, RAM, schedule and deliverables)**
 
 As we know performance metrics are vital to the employee & corporation for different reasons. The interaction between employees and management would be through systems (registers, scanners, etc.), making analyzing employee performance relatively easy. Implementing these systems include a lot of aspects, there is a software which is responsible for storing all the data that includes sales in cash and card, errors occurred, number of customers checked out and much more. Also, the organization needs to hire a software company to develop the mobile application for the loyalty program. The organization also needs to come up with a set of questions that would be asked to the employees in the surveys that are to be performed quarterly. The management team also needs to come up with innovative ideas for the customers to use the feedback boxes.
-
-![](RackMultipart20230226-1-2qcje3_html_28549136f85fd7be.png)
