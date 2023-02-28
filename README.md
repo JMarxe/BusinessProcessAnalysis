@@ -1,4 +1,8 @@
-# Asian Market Business Process Analysis
+# Hanna and Tiger Asian Mart Business Process Analysis
+
+<p align="center">
+<img src="https://lh3.googleusercontent.com/p/AF1QipM0L_SKMJPeK6HMvkWsjonfY65WEaOm3hqY3M2q=w1080-h608-p-no-v0" height="80%" width="80%"/>
+<br />
 
 # Project Objectives
 
