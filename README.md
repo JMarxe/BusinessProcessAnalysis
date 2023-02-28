@@ -1,6 +1,6 @@
 # Project Objectives
 
-The objectives of the team are to streamline the documenting and tracking of employee job performance management, Training and recruitment process at Hannah and Tiger Asian mart.
+The objectives of the team are to streamline the documenting and tracking of employee job performance management, Training and recruitment process at Hannah and Tiger Asian Mart.
 
 - Systematic employee feedback to see if the employee is abiding by the job requirements through training.
 - The efficiency of checking out customers at a reasonable pace.
